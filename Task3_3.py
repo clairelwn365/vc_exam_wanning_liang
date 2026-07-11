@@ -1,6 +1,5 @@
-a=10
-b=20
-c=a*b
-print(c)
-
-
+length=10
+width=20
+area=length*width
+print(area)
+print(The area is:,area)
